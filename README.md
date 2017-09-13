@@ -9,6 +9,9 @@
 
 - (May 16-18) [RightsCon Toronto](https://www.rightscon.org/) (Toronto, ON, Canada) - RightsCon is a unique space that brings together business leaders from information and communication technology companies, government representatives, technologists, lawyers, and civil society globally to build strategies, highlight emerging voices, and showcase new technologies and initiatives 
 
+
+# Past Conferences
+
 ## July 2017
 
 - (July 12-14) [CitizenLab Summer Institute 2017](https://citizenlab.ca/summerinstitute/2017.html) (Toronto, ON, Canada) - The Citizen Lab Summer Institute (CLSI) is a meeting place for researchers and practitioners from academia, civil society, and the private sector who are working on Internet openness, security, and rights
