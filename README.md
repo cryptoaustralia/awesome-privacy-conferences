@@ -5,9 +5,17 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
+# Upcoming Conferences
+
+## October 2017
+- (October 23rd-29th) ⭐ [PrivacyWeek Wien](https://privacyweek.at/) (Vienna, Austria) - Privacy in the digital age: the last week of October will be filled with the second edition of the "PrivacyWeek". This event series by [Chaos Computer Club Wien (C3W)](https://c3w.at/) addresses data and its tracks that we leave behind every day - online and offline. The variegated program offers everything from overview talks for beginners to deep-dive workshops for programmers. Three special theme days for journalists (Mon, Oct 23rd), programmers (Tue, Oct 24th) and teachers (Wed, Oct 25th) will offer an especially relevant program. The rich program for the mixed audience starts from 16:00 on week days and from Thursday to Sunday through. And the traditional [Big Brother Awards Austria](http://www.bigbrotherawards.at/2017/) will take place on October 25th.
+
 ## May 2018
 
 - (May 16-18) [RightsCon Toronto](https://www.rightscon.org/) (Toronto, ON, Canada) - RightsCon is a unique space that brings together business leaders from information and communication technology companies, government representatives, technologists, lawyers, and civil society globally to build strategies, highlight emerging voices, and showcase new technologies and initiatives 
+
+
+# Past Conferences
 
 ## July 2017
 
