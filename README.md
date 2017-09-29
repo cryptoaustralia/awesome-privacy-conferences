@@ -14,6 +14,10 @@
 
 - (November 4-5) [ORGCon](https://orgcon.openrightsgroup.org/) (London, UK) - ORGCon 2017 will bring together expert writers, lawyers, academics and technologists to discuss surveillance, online abuse, fake news, and how we can fight back against those who want to undermine our human rights.
 
+## December 2017
+
+- (December 27-30) [Chaos Communication Congress](https://events.ccc.de/tag/34c3/) (Leipzig, Germany) - The Chaos Communication Congress is an annual conference organized by the Chaos Computer Club. The congress features a variety of lectures and workshops on technical and political issues related to Security, Cryptography, Privacy and online Freedom of Speech.
+
 ## May 2018
 
 - (May 16-18) [RightsCon Toronto](https://www.rightscon.org/) (Toronto, ON, Canada) - RightsCon is a unique space that brings together business leaders from information and communication technology companies, government representatives, technologists, lawyers, and civil society globally to build strategies, highlight emerging voices, and showcase new technologies and initiatives 
