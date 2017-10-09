@@ -18,13 +18,17 @@
 
 - (December 27-30) [Chaos Communication Congress](https://events.ccc.de/tag/34c3/) (Leipzig, Germany) - The Chaos Communication Congress is an annual conference organized by the Chaos Computer Club. The congress features a variety of lectures and workshops on technical and political issues related to Security, Cryptography, Privacy and online Freedom of Speech.
 
+## January 2018
+
+- ⭐️ (January 24-26) [Computers, Privacy & Data Protection (CPDP2018)](http://www.cpdpconferences.org/) (Brussels, Belgium) - CPDP is a world-leading multidisciplinary conference that offers the cutting edge in legal, regulatory, academic and technological development in privacy and data protection. Within an atmosphere of independence and mutual respect, CPDP gathers academics, lawyers, practitioners, policy-makers, industry and civil society from all over the world in Brussels.
+
 ## May 2018
 
 - (May 16-18) [RightsCon Toronto](https://www.rightscon.org/) (Toronto, ON, Canada) - RightsCon is a unique space that brings together business leaders from information and communication technology companies, government representatives, technologists, lawyers, and civil society globally to build strategies, highlight emerging voices, and showcase new technologies and initiatives 
 
 ## July 2018
 
-- ⭐️ (July 24-27) [Privacy Enhancing Technologies Symposium  (PETS)](https://petsymposium.org/) (Barcelona, Spain) - The annual Privacy Enhancing Technologies Symposium (PETS) brings together privacy experts from around the world to present and discuss recent advances and new perspectives on research in privacy technologies. PETS/PoPETs is the premier venue for novel applied and/or theoretical research into the design, analysis, experimentation, or fielding of privacy-enhancing technologies.
+- (July 24-27) [Privacy Enhancing Technologies Symposium  (PETS)](https://petsymposium.org/) (Barcelona, Spain) - The annual Privacy Enhancing Technologies Symposium (PETS) brings together privacy experts from around the world to present and discuss recent advances and new perspectives on research in privacy technologies. PETS/PoPETs is the premier venue for novel applied and/or theoretical research into the design, analysis, experimentation, or fielding of privacy-enhancing technologies.
 
 # Past Conferences
 
